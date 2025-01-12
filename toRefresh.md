@@ -6,3 +6,5 @@ As you work through this exercise, write down anything that you needed to look u
 - difference between list and arraylist syntax
 - array syntax
 - string utilities
+- set syntax
+- forEach for maps

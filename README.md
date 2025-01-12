@@ -20,6 +20,7 @@ Most of these taks should be easy, but there will likely be some that ask you to
 - SetPractice
 - MapPractice
 - Person.java
+- Making classes
 
 ## Submitting
 Make a Pull Request (PR) against the original repository. Copy the link into Canvas to submit.
